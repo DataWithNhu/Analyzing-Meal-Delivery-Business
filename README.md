@@ -1,6 +1,6 @@
 # Analyzing a Meal Delivery Business with SQL
 
-**Author:** _your name_
+**Author:** Nhu Pham
 
 You are a data analyst at **Delivr**, a food-delivery startup. In this project you build a small PostgreSQL data warehouse in the cloud, answer business questions with SQL, and present the results in a Power BI dashboard.
 
